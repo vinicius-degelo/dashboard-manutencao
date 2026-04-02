@@ -1,0 +1,601 @@
+﻿id_ordem,data_abertura,mes,tipo_manutencao,cod_equipamento,equipamento,cliente,tecnico_id,tecnico,status,tempo_execucao_h,sla_horas,dentro_sla,custo_rs,satisfacao,reincidente,falha_identificada
+OS00001,2024-03-12,2024-03,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T03,Roberto Lima,Concluída,10.7,12,True,993.09,5.0,True,Sistema elétrico com falha
+OS00002,2024-11-04,2024-11,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T02,Ana Souza,Aguardando peça,3.1,6,True,300.67,,False,
+OS00003,2024-01-04,2024-01,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,10.8,12,True,662.18,4.0,False,Botão de chamada inoperante
+OS00004,2024-02-19,2024-02,Modernização,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T01,Carlos Silva,Em andamento,24.8,48,True,4875.82,,False,
+OS00005,2024-02-10,2024-02,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Condomínio Residencial Aurora,T05,Lucas Mendes,Em andamento,5.8,6,True,477.23,,False,
+OS00006,2024-01-24,2024-01,Inspeção,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T02,Ana Souza,Concluída,4.3,4,False,197.77,5.0,False,
+OS00007,2024-03-24,2024-03,Inspeção,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T03,Roberto Lima,Concluída,2.9,4,True,130.14,3.0,False,
+OS00008,2024-03-24,2024-03,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T02,Ana Souza,Concluída,9.3,12,True,732.77,5.0,False,Botão de chamada inoperante
+OS00009,2024-06-10,2024-06,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Shopping Center Plaza,T01,Carlos Silva,Concluída,9.0,12,True,602.36,5.0,False,Freio com desgaste
+OS00010,2024-03-14,2024-03,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T04,Fernanda Costa,Em andamento,4.3,6,True,314.06,,False,
+OS00011,2024-07-04,2024-07,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T04,Fernanda Costa,Em andamento,4.1,6,True,524.31,,False,
+OS00012,2024-12-14,2024-12,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T01,Carlos Silva,Concluída,5.1,6,True,262.79,4.0,False,
+OS00013,2024-12-15,2024-12,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T01,Carlos Silva,Concluída,11.4,12,True,1040.56,5.0,False,Nível de óleo baixo
+OS00014,2024-09-13,2024-09,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T01,Carlos Silva,Concluída,10.8,12,True,884.92,2.0,False,
+OS00015,2024-10-03,2024-10,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T03,Roberto Lima,Concluída,11.8,12,True,1150.36,5.0,False,
+OS00016,2024-05-03,2024-05,Manutenção Preventiva,ELV-003,Elevador de Carga,Shopping Center Plaza,T03,Roberto Lima,Concluída,7.4,6,False,510.15,2.0,False,
+OS00017,2024-03-06,2024-03,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T05,Lucas Mendes,Concluída,6.3,6,False,510.12,3.0,False,
+OS00018,2024-12-31,2024-12,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T05,Lucas Mendes,Concluída,8.6,12,True,1196.9,4.0,False,
+OS00019,2024-01-11,2024-01,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T02,Ana Souza,Concluída,9.9,12,True,707.27,3.0,True,Cabo de aço desgastado
+OS00020,2024-05-01,2024-05,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Condomínio Residencial Aurora,T03,Roberto Lima,Aguardando peça,4.4,6,True,380.92,,False,
+OS00021,2024-08-30,2024-08,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T05,Lucas Mendes,Concluída,11.0,12,True,681.86,2.0,False,Sistema elétrico com falha
+OS00022,2024-02-01,2024-02,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T01,Carlos Silva,Concluída,9.0,12,True,777.15,5.0,True,Botão de chamada inoperante
+OS00023,2024-08-24,2024-08,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T04,Fernanda Costa,Concluída,8.2,12,True,1150.89,4.0,False,
+OS00024,2024-02-17,2024-02,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hotel Grand Palace,T05,Lucas Mendes,Concluída,7.6,6,False,482.63,3.0,False,
+OS00025,2024-01-02,2024-01,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T01,Carlos Silva,Em andamento,7.9,6,False,319.26,,False,
+OS00026,2024-03-20,2024-03,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T05,Lucas Mendes,Em andamento,7.9,12,True,699.33,,True,
+OS00027,2024-09-01,2024-09,Manutenção Preventiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T01,Carlos Silva,Aguardando peça,5.5,6,True,483.76,,False,
+OS00028,2024-02-04,2024-02,Modernização,ELV-001,Elevador Social Bloco A,Condomínio Residencial Aurora,T02,Ana Souza,Aguardando peça,26.4,48,True,4440.82,,False,
+OS00029,2024-11-13,2024-11,Inspeção,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T05,Lucas Mendes,Concluída,1.4,4,True,183.88,4.0,False,
+OS00030,2024-07-21,2024-07,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Shopping Center Plaza,T03,Roberto Lima,Concluída,3.7,6,True,425.74,4.0,False,
+OS00031,2024-02-21,2024-02,Inspeção,ELV-001,Elevador Social Bloco A,Edifício Comercial Centro,T04,Fernanda Costa,Aguardando peça,1.4,4,True,130.58,,False,
+OS00032,2024-03-21,2024-03,Inspeção,ELV-001,Elevador Social Bloco A,Hospital São Lucas,T02,Ana Souza,Concluída,3.2,4,True,170.19,4.0,False,
+OS00033,2024-06-02,2024-06,Inspeção,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T01,Carlos Silva,Aguardando peça,5.7,4,False,117.43,,False,
+OS00034,2024-05-24,2024-05,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T05,Lucas Mendes,Concluída,6.0,6,True,445.93,3.0,False,
+OS00035,2024-02-17,2024-02,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Hotel Grand Palace,T03,Roberto Lima,Concluída,6.2,6,False,477.22,1.0,False,
+OS00036,2024-10-09,2024-10,Manutenção Preventiva,ELV-003,Elevador de Carga,Universidade Federal,T02,Ana Souza,Em andamento,6.5,6,False,402.05,,False,
+OS00037,2024-07-08,2024-07,Inspeção,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T02,Ana Souza,Concluída,3.9,4,True,122.77,2.0,False,
+OS00038,2024-12-15,2024-12,Inspeção,PLT-002,Plataforma Elevatória P2,Hospital São Lucas,T01,Carlos Silva,Concluída,2.2,4,True,117.34,5.0,False,
+OS00039,2024-03-31,2024-03,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T02,Ana Souza,Concluída,11.4,12,True,575.86,5.0,False,Sistema elétrico com falha
+OS00040,2024-12-25,2024-12,Inspeção,PLT-002,Plataforma Elevatória P2,Hospital São Lucas,T02,Ana Souza,Concluída,1.5,4,True,209.66,5.0,False,
+OS00041,2024-04-24,2024-04,Inspeção,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T03,Roberto Lima,Concluída,1.1,4,True,128.18,4.0,False,
+OS00042,2024-07-23,2024-07,Modernização,ELV-003,Elevador de Carga,Universidade Federal,T03,Roberto Lima,Aguardando peça,26.4,48,True,6874.64,,False,
+OS00043,2024-01-20,2024-01,Manutenção Preventiva,ELV-003,Elevador de Carga,Edifício Comercial Centro,T02,Ana Souza,Concluída,3.5,6,True,366.68,5.0,False,
+OS00044,2024-04-07,2024-04,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T01,Carlos Silva,Aguardando peça,8.3,12,True,1013.62,,True,
+OS00045,2024-02-05,2024-02,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T02,Ana Souza,Em andamento,11.7,12,True,1149.29,,False,Porta com falha no sensor
+OS00046,2024-06-16,2024-06,Manutenção Corretiva,ELV-003,Elevador de Carga,Hospital São Lucas,T05,Lucas Mendes,Em andamento,9.0,12,True,749.22,,True,Sistema elétrico com falha
+OS00047,2024-06-03,2024-06,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T02,Ana Souza,Aguardando peça,9.0,12,True,1093.58,,False,Botão de chamada inoperante
+OS00048,2024-08-26,2024-08,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T05,Lucas Mendes,Concluída,9.2,12,True,992.4,4.0,False,Motor com superaquecimento
+OS00049,2024-06-20,2024-06,Manutenção Corretiva,ELV-003,Elevador de Carga,Universidade Federal,T05,Lucas Mendes,Aguardando peça,7.5,12,True,1169.28,,True,Nível de óleo baixo
+OS00050,2024-05-05,2024-05,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T02,Ana Souza,Concluída,7.9,6,False,416.16,5.0,False,
+OS00051,2024-09-10,2024-09,Inspeção,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T02,Ana Souza,Em andamento,3.0,4,True,122.71,,False,
+OS00052,2024-04-22,2024-04,Inspeção,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T01,Carlos Silva,Em andamento,1.9,4,True,219.96,,False,
+OS00053,2024-08-25,2024-08,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Aeroporto Regional,T01,Carlos Silva,Concluída,6.3,6,False,521.61,4.0,False,
+OS00054,2024-08-16,2024-08,Inspeção,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T05,Lucas Mendes,Aguardando peça,5.5,4,False,194.24,,False,
+OS00055,2024-09-05,2024-09,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T03,Roberto Lima,Aguardando peça,6.1,6,False,321.89,,True,
+OS00056,2024-02-11,2024-02,Manutenção Preventiva,ELV-003,Elevador de Carga,Hospital São Lucas,T03,Roberto Lima,Aguardando peça,3.7,6,True,309.75,,False,
+OS00057,2024-10-04,2024-10,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Aeroporto Regional,T04,Fernanda Costa,Concluída,9.3,12,True,599.85,5.0,False,
+OS00058,2024-01-04,2024-01,Inspeção,ELV-001,Elevador Social Bloco A,Aeroporto Regional,T05,Lucas Mendes,Em andamento,5.7,4,False,140.83,,False,
+OS00059,2024-11-04,2024-11,Inspeção,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T04,Fernanda Costa,Aguardando peça,5.5,4,False,163.59,,False,
+OS00060,2024-03-25,2024-03,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T03,Roberto Lima,Em andamento,11.2,12,True,1148.51,,False,
+OS00061,2024-02-12,2024-02,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T05,Lucas Mendes,Concluída,6.2,6,False,283.0,4.0,True,
+OS00062,2024-07-13,2024-07,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Hospital São Lucas,T04,Fernanda Costa,Concluída,4.4,6,True,511.34,4.0,False,
+OS00063,2024-04-24,2024-04,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T05,Lucas Mendes,Concluída,10.3,12,True,1059.99,4.0,False,Botão de chamada inoperante
+OS00064,2024-03-05,2024-03,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T05,Lucas Mendes,Concluída,5.4,6,True,277.03,5.0,False,
+OS00065,2024-02-28,2024-02,Manutenção Preventiva,ELV-003,Elevador de Carga,Edifício Comercial Centro,T02,Ana Souza,Aguardando peça,6.9,6,False,290.85,,False,
+OS00066,2024-07-22,2024-07,Manutenção Corretiva,ELV-003,Elevador de Carga,Universidade Federal,T05,Lucas Mendes,Em andamento,11.7,12,True,686.93,,False,Botão de chamada inoperante
+OS00067,2024-03-02,2024-03,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T03,Roberto Lima,Aguardando peça,7.0,6,False,403.46,,True,
+OS00068,2024-11-27,2024-11,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T03,Roberto Lima,Aguardando peça,8.7,12,True,1103.73,,False,Porta com falha no sensor
+OS00069,2024-08-10,2024-08,Manutenção Corretiva,ELV-003,Elevador de Carga,Universidade Federal,T04,Fernanda Costa,Concluída,7.9,12,True,893.92,4.0,False,
+OS00070,2024-05-17,2024-05,Inspeção,ESC-001,Escada Rolante Terminal 1,Hotel Grand Palace,T04,Fernanda Costa,Aguardando peça,2.6,4,True,134.46,,False,
+OS00071,2024-10-18,2024-10,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Hotel Grand Palace,T02,Ana Souza,Em andamento,6.1,6,False,351.12,,True,
+OS00072,2024-05-12,2024-05,Inspeção,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T04,Fernanda Costa,Concluída,2.7,4,True,210.64,5.0,False,
+OS00073,2024-09-07,2024-09,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T01,Carlos Silva,Em andamento,5.8,6,True,312.29,,False,
+OS00074,2024-04-23,2024-04,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,9.0,12,True,715.72,4.0,False,
+OS00075,2024-12-25,2024-12,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T05,Lucas Mendes,Concluída,9.3,12,True,756.24,3.0,False,Freio com desgaste
+OS00076,2024-09-04,2024-09,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T02,Ana Souza,Concluída,4.4,6,True,410.08,5.0,False,
+OS00077,2024-07-03,2024-07,Modernização,PLT-002,Plataforma Elevatória P2,Hospital São Lucas,T02,Ana Souza,Concluída,23.9,48,True,3556.59,4.0,False,
+OS00078,2024-11-22,2024-11,Modernização,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T03,Roberto Lima,Concluída,27.3,48,True,5463.51,5.0,False,
+OS00079,2024-05-09,2024-05,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T03,Roberto Lima,Concluída,11.7,12,True,865.75,5.0,False,Porta com falha no sensor
+OS00080,2024-10-15,2024-10,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Shopping Center Plaza,T01,Carlos Silva,Concluída,11.7,12,True,614.52,3.0,False,Sistema elétrico com falha
+OS00081,2024-07-13,2024-07,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Shopping Center Plaza,T05,Lucas Mendes,Aguardando peça,9.3,12,True,843.34,,False,Sistema elétrico com falha
+OS00082,2024-04-16,2024-04,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T01,Carlos Silva,Concluída,6.1,6,False,319.1,2.0,False,
+OS00083,2024-12-18,2024-12,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Aeroporto Regional,T01,Carlos Silva,Em andamento,10.0,12,True,746.41,,True,Nível de óleo baixo
+OS00084,2024-05-15,2024-05,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T01,Carlos Silva,Concluída,10.9,12,True,960.04,4.0,False,Sistema elétrico com falha
+OS00085,2024-02-06,2024-02,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Hospital São Lucas,T02,Ana Souza,Concluída,3.3,6,True,466.94,4.0,False,
+OS00086,2024-12-24,2024-12,Inspeção,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T01,Carlos Silva,Concluída,3.0,4,True,137.67,4.0,False,
+OS00087,2024-01-14,2024-01,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T03,Roberto Lima,Concluída,7.5,12,True,1175.62,5.0,False,Cabo de aço desgastado
+OS00088,2024-03-30,2024-03,Modernização,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T03,Roberto Lima,Concluída,25.4,48,True,6106.04,5.0,False,
+OS00089,2024-06-27,2024-06,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T04,Fernanda Costa,Em andamento,9.0,12,True,765.48,,True,Motor com superaquecimento
+OS00090,2024-10-08,2024-10,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T04,Fernanda Costa,Em andamento,3.2,6,True,269.66,,False,
+OS00091,2024-01-01,2024-01,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T04,Fernanda Costa,Aguardando peça,6.3,6,False,396.93,,False,
+OS00092,2024-11-16,2024-11,Manutenção Preventiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T05,Lucas Mendes,Em andamento,5.2,6,True,259.45,,False,
+OS00093,2024-03-03,2024-03,Manutenção Preventiva,ELV-003,Elevador de Carga,Universidade Federal,T04,Fernanda Costa,Em andamento,3.1,6,True,421.41,,False,
+OS00094,2024-07-27,2024-07,Manutenção Corretiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T05,Lucas Mendes,Aguardando peça,7.5,12,True,1195.04,,False,
+OS00095,2024-09-17,2024-09,Inspeção,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T02,Ana Souza,Concluída,4.5,4,False,154.86,4.0,False,
+OS00096,2024-09-17,2024-09,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T04,Fernanda Costa,Aguardando peça,10.7,12,True,647.37,,True,Sistema elétrico com falha
+OS00097,2024-05-24,2024-05,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hospital São Lucas,T05,Lucas Mendes,Concluída,6.6,6,False,479.49,4.0,False,
+OS00098,2024-06-19,2024-06,Inspeção,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T05,Lucas Mendes,Concluída,3.8,4,True,170.21,4.0,False,
+OS00099,2024-04-29,2024-04,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T02,Ana Souza,Em andamento,7.3,6,False,360.02,,False,
+OS00100,2024-09-10,2024-09,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Aeroporto Regional,T04,Fernanda Costa,Concluída,11.8,12,True,640.8,5.0,False,Porta com falha no sensor
+OS00101,2024-01-08,2024-01,Inspeção,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T01,Carlos Silva,Em andamento,4.6,4,False,154.2,,False,
+OS00102,2024-12-20,2024-12,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T03,Roberto Lima,Aguardando peça,5.0,6,True,267.49,,False,
+OS00103,2024-10-04,2024-10,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Hospital São Lucas,T04,Fernanda Costa,Em andamento,7.2,12,True,603.79,,False,Nível de óleo baixo
+OS00104,2024-11-20,2024-11,Modernização,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T01,Carlos Silva,Concluída,26.5,48,True,3902.03,3.0,False,
+OS00105,2024-07-10,2024-07,Manutenção Preventiva,ELV-003,Elevador de Carga,Hospital São Lucas,T01,Carlos Silva,Concluída,5.2,6,True,313.38,4.0,False,
+OS00106,2024-11-13,2024-11,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T01,Carlos Silva,Em andamento,6.4,6,False,384.35,,False,
+OS00107,2024-12-07,2024-12,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T03,Roberto Lima,Concluída,3.0,6,True,470.3,5.0,False,
+OS00108,2024-11-23,2024-11,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T03,Roberto Lima,Concluída,7.8,6,False,438.29,4.0,False,
+OS00109,2024-07-14,2024-07,Modernização,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T04,Fernanda Costa,Concluída,25.9,48,True,5799.25,5.0,False,
+OS00110,2024-10-16,2024-10,Modernização,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T04,Fernanda Costa,Concluída,27.3,48,True,6613.25,5.0,False,
+OS00111,2024-11-06,2024-11,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T03,Roberto Lima,Concluída,11.0,12,True,700.16,3.0,False,Motor com superaquecimento
+OS00112,2024-01-18,2024-01,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T01,Carlos Silva,Em andamento,9.9,12,True,1028.71,,True,Nível de óleo baixo
+OS00113,2024-10-03,2024-10,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T02,Ana Souza,Concluída,7.4,6,False,347.44,4.0,False,
+OS00114,2024-06-22,2024-06,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T04,Fernanda Costa,Concluída,7.0,6,False,376.13,2.0,False,
+OS00115,2024-07-06,2024-07,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hotel Grand Palace,T04,Fernanda Costa,Aguardando peça,3.5,6,True,355.48,,False,
+OS00116,2024-11-22,2024-11,Manutenção Preventiva,ELV-003,Elevador de Carga,Edifício Comercial Centro,T03,Roberto Lima,Em andamento,7.7,6,False,275.34,,False,
+OS00117,2024-11-27,2024-11,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T03,Roberto Lima,Concluída,3.3,6,True,475.68,5.0,False,
+OS00118,2024-09-09,2024-09,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,7.6,12,True,710.27,4.0,False,Freio com desgaste
+OS00119,2024-03-20,2024-03,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T05,Lucas Mendes,Aguardando peça,11.4,12,True,979.15,,False,
+OS00120,2024-04-21,2024-04,Manutenção Corretiva,ELV-003,Elevador de Carga,Universidade Federal,T01,Carlos Silva,Concluída,9.2,12,True,1168.36,5.0,True,Freio com desgaste
+OS00121,2024-05-21,2024-05,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T03,Roberto Lima,Em andamento,7.9,12,True,638.18,,False,
+OS00122,2024-06-19,2024-06,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T05,Lucas Mendes,Concluída,4.2,6,True,280.26,4.0,True,
+OS00123,2024-06-17,2024-06,Inspeção,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T05,Lucas Mendes,Concluída,4.9,4,False,199.64,4.0,False,
+OS00124,2024-02-26,2024-02,Modernização,ELV-002,Elevador Social Bloco B,Hospital São Lucas,T05,Lucas Mendes,Concluída,26.3,48,True,3603.12,1.0,False,
+OS00125,2024-01-27,2024-01,Manutenção Preventiva,ELV-003,Elevador de Carga,Shopping Center Plaza,T01,Carlos Silva,Concluída,3.6,6,True,362.87,2.0,True,
+OS00126,2024-08-19,2024-08,Manutenção Corretiva,ELV-003,Elevador de Carga,Edifício Comercial Centro,T05,Lucas Mendes,Concluída,9.5,12,True,1165.07,1.0,False,
+OS00127,2024-07-24,2024-07,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T01,Carlos Silva,Em andamento,5.1,6,True,275.23,,False,
+OS00128,2024-02-03,2024-02,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Edifício Comercial Centro,T03,Roberto Lima,Concluída,7.6,12,True,959.56,4.0,False,Sistema elétrico com falha
+OS00129,2024-11-05,2024-11,Modernização,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T03,Roberto Lima,Aguardando peça,25.2,48,True,6672.38,,False,
+OS00130,2024-08-08,2024-08,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T05,Lucas Mendes,Concluída,9.3,12,True,706.24,4.0,False,Sistema elétrico com falha
+OS00131,2024-07-10,2024-07,Manutenção Corretiva,ELV-003,Elevador de Carga,Hospital São Lucas,T04,Fernanda Costa,Concluída,11.8,12,True,999.57,4.0,True,Porta com falha no sensor
+OS00132,2024-10-11,2024-10,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T03,Roberto Lima,Concluída,3.3,6,True,512.85,4.0,False,
+OS00133,2024-05-27,2024-05,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T04,Fernanda Costa,Concluída,10.0,12,True,785.05,4.0,True,
+OS00134,2024-07-07,2024-07,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T03,Roberto Lima,Aguardando peça,3.6,6,True,323.0,,False,
+OS00135,2024-01-14,2024-01,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T05,Lucas Mendes,Aguardando peça,10.0,12,True,981.01,,False,Cabo de aço desgastado
+OS00136,2024-01-04,2024-01,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T03,Roberto Lima,Concluída,3.9,6,True,285.11,4.0,True,
+OS00137,2024-04-20,2024-04,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Universidade Federal,T01,Carlos Silva,Aguardando peça,8.9,12,True,850.33,,True,Nível de óleo baixo
+OS00138,2024-01-27,2024-01,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T05,Lucas Mendes,Concluída,7.8,12,True,1042.84,1.0,True,
+OS00139,2024-05-19,2024-05,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T05,Lucas Mendes,Em andamento,8.1,12,True,887.9,,False,Porta com falha no sensor
+OS00140,2024-12-07,2024-12,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T05,Lucas Mendes,Aguardando peça,4.5,6,True,306.75,,False,
+OS00141,2024-05-10,2024-05,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T03,Roberto Lima,Concluída,4.4,6,True,278.6,4.0,False,
+OS00142,2024-12-08,2024-12,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T02,Ana Souza,Aguardando peça,7.0,6,False,265.18,,False,
+OS00143,2024-10-21,2024-10,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Condomínio Residencial Aurora,T04,Fernanda Costa,Concluída,5.1,6,True,358.24,4.0,False,
+OS00144,2024-08-23,2024-08,Manutenção Corretiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T02,Ana Souza,Aguardando peça,11.2,12,True,1148.65,,True,Porta com falha no sensor
+OS00145,2024-07-21,2024-07,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,7.4,6,False,453.83,3.0,False,
+OS00146,2024-04-09,2024-04,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T01,Carlos Silva,Aguardando peça,7.5,6,False,342.83,,False,
+OS00147,2024-03-15,2024-03,Inspeção,PLT-002,Plataforma Elevatória P2,Shopping Center Plaza,T02,Ana Souza,Concluída,2.3,4,True,125.82,3.0,False,
+OS00148,2024-10-23,2024-10,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Aeroporto Regional,T04,Fernanda Costa,Aguardando peça,5.2,6,True,503.76,,False,
+OS00149,2024-03-18,2024-03,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Hotel Grand Palace,T03,Roberto Lima,Concluída,9.2,12,True,860.11,4.0,False,
+OS00150,2024-08-19,2024-08,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Hospital São Lucas,T01,Carlos Silva,Em andamento,3.2,6,True,348.25,,False,
+OS00151,2024-09-16,2024-09,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T01,Carlos Silva,Aguardando peça,8.9,12,True,931.41,,False,Cabo de aço desgastado
+OS00152,2024-06-13,2024-06,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T05,Lucas Mendes,Concluída,10.0,12,True,880.88,5.0,False,Freio com desgaste
+OS00153,2024-01-21,2024-01,Modernização,ELV-001,Elevador Social Bloco A,Universidade Federal,T05,Lucas Mendes,Concluída,24.2,48,True,5251.03,4.0,False,
+OS00154,2024-06-22,2024-06,Manutenção Preventiva,ELV-003,Elevador de Carga,Aeroporto Regional,T03,Roberto Lima,Em andamento,6.4,6,False,259.66,,False,
+OS00155,2024-05-25,2024-05,Manutenção Preventiva,ELV-003,Elevador de Carga,Edifício Comercial Centro,T01,Carlos Silva,Em andamento,4.3,6,True,483.44,,False,
+OS00156,2024-12-05,2024-12,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T03,Roberto Lima,Aguardando peça,7.7,12,True,783.89,,False,Sistema elétrico com falha
+OS00157,2024-07-11,2024-07,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T01,Carlos Silva,Aguardando peça,6.2,6,False,336.97,,False,
+OS00158,2024-09-17,2024-09,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T05,Lucas Mendes,Em andamento,8.8,12,True,792.06,,True,Botão de chamada inoperante
+OS00159,2024-03-11,2024-03,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Shopping Center Plaza,T04,Fernanda Costa,Concluída,3.8,6,True,327.82,5.0,False,
+OS00160,2024-11-12,2024-11,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T05,Lucas Mendes,Concluída,7.7,12,True,801.1,3.0,False,
+OS00161,2024-07-05,2024-07,Inspeção,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T04,Fernanda Costa,Em andamento,4.4,4,False,133.5,,False,
+OS00162,2024-05-02,2024-05,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Shopping Center Plaza,T04,Fernanda Costa,Aguardando peça,4.5,6,True,471.41,,False,
+OS00163,2024-05-24,2024-05,Inspeção,ELV-003,Elevador de Carga,Aeroporto Regional,T05,Lucas Mendes,Em andamento,4.9,4,False,165.35,,False,
+OS00164,2024-01-27,2024-01,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T05,Lucas Mendes,Concluída,6.2,6,False,489.75,4.0,False,
+OS00165,2024-03-23,2024-03,Inspeção,PLT-002,Plataforma Elevatória P2,Hospital São Lucas,T01,Carlos Silva,Concluída,2.4,4,True,213.64,3.0,False,
+OS00166,2024-07-31,2024-07,Inspeção,ELV-002,Elevador Social Bloco B,Hospital São Lucas,T04,Fernanda Costa,Concluída,1.3,4,True,165.24,3.0,False,
+OS00167,2024-03-15,2024-03,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Condomínio Residencial Aurora,T03,Roberto Lima,Concluída,3.7,6,True,325.33,5.0,False,
+OS00168,2024-01-03,2024-01,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T04,Fernanda Costa,Aguardando peça,7.5,6,False,250.32,,False,
+OS00169,2024-02-26,2024-02,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T05,Lucas Mendes,Em andamento,6.9,6,False,311.54,,False,
+OS00170,2024-02-26,2024-02,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T05,Lucas Mendes,Concluída,7.2,6,False,384.95,4.0,False,
+OS00171,2024-01-01,2024-01,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T02,Ana Souza,Em andamento,10.1,12,True,713.96,,False,Porta com falha no sensor
+OS00172,2024-09-16,2024-09,Manutenção Corretiva,ELV-003,Elevador de Carga,Edifício Comercial Centro,T01,Carlos Silva,Aguardando peça,10.9,12,True,884.88,,True,
+OS00173,2024-07-01,2024-07,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T03,Roberto Lima,Concluída,6.9,6,False,341.54,5.0,False,
+OS00174,2024-06-29,2024-06,Inspeção,PLT-001,Plataforma Elevatória P1,Shopping Center Plaza,T03,Roberto Lima,Concluída,3.7,4,True,202.62,3.0,False,
+OS00175,2024-03-10,2024-03,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Universidade Federal,T04,Fernanda Costa,Concluída,7.3,12,True,1056.76,4.0,False,Cabo de aço desgastado
+OS00176,2024-07-22,2024-07,Inspeção,ELV-001,Elevador Social Bloco A,Hospital São Lucas,T03,Roberto Lima,Aguardando peça,5.9,4,False,170.16,,False,
+OS00177,2024-12-01,2024-12,Inspeção,ELV-002,Elevador Social Bloco B,Hospital São Lucas,T03,Roberto Lima,Concluída,2.7,4,True,119.94,4.0,False,
+OS00178,2024-12-20,2024-12,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T03,Roberto Lima,Em andamento,9.5,12,True,1151.56,,False,Porta com falha no sensor
+OS00179,2024-10-06,2024-10,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,8.5,12,True,625.66,4.0,False,
+OS00180,2024-06-28,2024-06,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T02,Ana Souza,Em andamento,9.2,12,True,1025.16,,False,
+OS00181,2024-07-05,2024-07,Modernização,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T01,Carlos Silva,Em andamento,25.6,48,True,6499.59,,False,
+OS00182,2024-01-18,2024-01,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T05,Lucas Mendes,Em andamento,3.6,6,True,311.08,,False,
+OS00183,2024-12-13,2024-12,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T01,Carlos Silva,Concluída,5.2,6,True,348.87,4.0,True,
+OS00184,2024-05-07,2024-05,Manutenção Preventiva,ELV-003,Elevador de Carga,Hospital São Lucas,T04,Fernanda Costa,Concluída,7.8,6,False,252.26,3.0,False,
+OS00185,2024-12-26,2024-12,Inspeção,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T03,Roberto Lima,Concluída,3.2,4,True,224.56,4.0,False,
+OS00186,2024-08-19,2024-08,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T02,Ana Souza,Concluída,7.9,12,True,1016.56,5.0,False,Freio com desgaste
+OS00187,2024-05-28,2024-05,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T01,Carlos Silva,Aguardando peça,11.5,12,True,1104.87,,False,Motor com superaquecimento
+OS00188,2024-03-12,2024-03,Inspeção,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T02,Ana Souza,Concluída,2.2,4,True,164.28,4.0,False,
+OS00189,2024-02-03,2024-02,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T02,Ana Souza,Concluída,8.5,12,True,1199.74,5.0,False,Sistema elétrico com falha
+OS00190,2024-08-18,2024-08,Inspeção,ELV-001,Elevador Social Bloco A,Hospital São Lucas,T02,Ana Souza,Concluída,3.3,4,True,167.08,2.0,False,
+OS00191,2024-08-09,2024-08,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Hotel Grand Palace,T02,Ana Souza,Concluída,9.5,12,True,1115.66,5.0,False,Nível de óleo baixo
+OS00192,2024-05-25,2024-05,Manutenção Preventiva,ELV-003,Elevador de Carga,Hospital São Lucas,T02,Ana Souza,Aguardando peça,7.2,6,False,315.17,,False,
+OS00193,2024-02-17,2024-02,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T03,Roberto Lima,Aguardando peça,9.5,12,True,667.93,,False,Motor com superaquecimento
+OS00194,2024-01-22,2024-01,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Hospital São Lucas,T05,Lucas Mendes,Aguardando peça,7.1,6,False,252.94,,True,
+OS00195,2024-10-19,2024-10,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T03,Roberto Lima,Concluída,9.1,12,True,968.95,4.0,False,Nível de óleo baixo
+OS00196,2024-06-01,2024-06,Manutenção Corretiva,ELV-003,Elevador de Carga,Shopping Center Plaza,T04,Fernanda Costa,Em andamento,9.3,12,True,1000.71,,True,Sistema elétrico com falha
+OS00197,2024-06-09,2024-06,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T03,Roberto Lima,Concluída,11.3,12,True,764.36,5.0,False,Sistema elétrico com falha
+OS00198,2024-06-12,2024-06,Manutenção Preventiva,ELV-003,Elevador de Carga,Edifício Comercial Centro,T05,Lucas Mendes,Concluída,4.2,6,True,279.31,4.0,False,
+OS00199,2024-03-22,2024-03,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T05,Lucas Mendes,Concluída,7.1,6,False,506.45,5.0,False,
+OS00200,2024-09-11,2024-09,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T04,Fernanda Costa,Concluída,3.1,6,True,509.67,4.0,False,
+OS00201,2024-09-10,2024-09,Manutenção Preventiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,6.0,6,True,481.0,4.0,False,
+OS00202,2024-07-06,2024-07,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T04,Fernanda Costa,Concluída,6.8,6,False,347.46,4.0,False,
+OS00203,2024-09-15,2024-09,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T03,Roberto Lima,Em andamento,5.3,6,True,398.96,,False,
+OS00204,2024-07-20,2024-07,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T01,Carlos Silva,Concluída,8.9,12,True,1191.54,4.0,False,Motor com superaquecimento
+OS00205,2024-01-24,2024-01,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,3.2,6,True,444.81,5.0,False,
+OS00206,2024-06-12,2024-06,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Hospital São Lucas,T02,Ana Souza,Aguardando peça,3.8,6,True,522.37,,False,
+OS00207,2024-09-29,2024-09,Manutenção Preventiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T05,Lucas Mendes,Aguardando peça,5.4,6,True,402.62,,False,
+OS00208,2024-06-06,2024-06,Manutenção Preventiva,ELV-003,Elevador de Carga,Aeroporto Regional,T01,Carlos Silva,Aguardando peça,7.0,6,False,448.09,,False,
+OS00209,2024-10-22,2024-10,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T03,Roberto Lima,Aguardando peça,4.1,6,True,259.38,,False,
+OS00210,2024-03-16,2024-03,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hotel Grand Palace,T05,Lucas Mendes,Em andamento,11.1,12,True,715.01,,False,Porta com falha no sensor
+OS00211,2024-07-30,2024-07,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T03,Roberto Lima,Concluída,6.5,6,False,359.91,5.0,False,
+OS00212,2024-09-22,2024-09,Inspeção,PLT-001,Plataforma Elevatória P1,Universidade Federal,T01,Carlos Silva,Concluída,2.0,4,True,144.01,4.0,False,
+OS00213,2024-10-06,2024-10,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,4.8,6,True,461.16,5.0,False,
+OS00214,2024-05-22,2024-05,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T04,Fernanda Costa,Concluída,9.8,12,True,703.91,5.0,False,Nível de óleo baixo
+OS00215,2024-06-27,2024-06,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T04,Fernanda Costa,Em andamento,9.8,12,True,1158.07,,False,Nível de óleo baixo
+OS00216,2024-06-25,2024-06,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T05,Lucas Mendes,Em andamento,7.8,6,False,470.29,,False,
+OS00217,2024-12-01,2024-12,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T01,Carlos Silva,Em andamento,4.3,6,True,379.14,,False,
+OS00218,2024-11-11,2024-11,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T03,Roberto Lima,Concluída,10.7,12,True,713.14,2.0,False,Botão de chamada inoperante
+OS00219,2024-08-29,2024-08,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Aeroporto Regional,T01,Carlos Silva,Concluída,7.5,12,True,1053.29,1.0,False,Motor com superaquecimento
+OS00220,2024-05-27,2024-05,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T04,Fernanda Costa,Concluída,8.6,12,True,973.37,5.0,True,
+OS00221,2024-03-31,2024-03,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Shopping Center Plaza,T01,Carlos Silva,Em andamento,7.7,6,False,255.18,,False,
+OS00222,2024-06-01,2024-06,Inspeção,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T03,Roberto Lima,Concluída,3.8,4,True,117.88,5.0,False,
+OS00223,2024-09-15,2024-09,Modernização,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T05,Lucas Mendes,Concluída,25.3,48,True,4271.25,2.0,False,
+OS00224,2024-05-31,2024-05,Manutenção Corretiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T02,Ana Souza,Concluída,9.8,12,True,1044.66,3.0,False,Sistema elétrico com falha
+OS00225,2024-12-08,2024-12,Inspeção,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T03,Roberto Lima,Em andamento,1.5,4,True,222.8,,False,
+OS00226,2024-08-16,2024-08,Inspeção,ELV-001,Elevador Social Bloco A,Aeroporto Regional,T03,Roberto Lima,Concluída,4.8,4,False,219.48,4.0,False,
+OS00227,2024-02-01,2024-02,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Universidade Federal,T03,Roberto Lima,Concluída,6.3,6,False,375.31,3.0,False,
+OS00228,2024-11-23,2024-11,Inspeção,PLT-001,Plataforma Elevatória P1,Universidade Federal,T03,Roberto Lima,Concluída,5.6,4,False,140.4,4.0,False,
+OS00229,2024-07-10,2024-07,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Universidade Federal,T04,Fernanda Costa,Aguardando peça,5.1,6,True,398.79,,False,
+OS00230,2024-12-14,2024-12,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hotel Grand Palace,T02,Ana Souza,Concluída,10.8,12,True,1118.81,2.0,False,Freio com desgaste
+OS00231,2024-09-15,2024-09,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T01,Carlos Silva,Aguardando peça,4.0,6,True,395.26,,False,
+OS00232,2024-10-25,2024-10,Inspeção,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T01,Carlos Silva,Concluída,3.4,4,True,212.87,4.0,True,
+OS00233,2024-10-13,2024-10,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,5.3,6,True,470.94,5.0,False,
+OS00234,2024-01-24,2024-01,Inspeção,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T02,Ana Souza,Concluída,3.1,4,True,189.05,4.0,True,
+OS00235,2024-04-02,2024-04,Inspeção,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T01,Carlos Silva,Em andamento,4.8,4,False,196.9,,False,
+OS00236,2024-07-12,2024-07,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T03,Roberto Lima,Em andamento,8.9,12,True,996.95,,False,
+OS00237,2024-10-02,2024-10,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T03,Roberto Lima,Concluída,5.0,6,True,280.66,5.0,False,
+OS00238,2024-08-05,2024-08,Inspeção,ELV-003,Elevador de Carga,Universidade Federal,T04,Fernanda Costa,Aguardando peça,3.7,4,True,203.8,,False,
+OS00239,2024-01-17,2024-01,Manutenção Preventiva,ELV-003,Elevador de Carga,Universidade Federal,T02,Ana Souza,Concluída,7.0,6,False,362.39,5.0,False,
+OS00240,2024-01-18,2024-01,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T01,Carlos Silva,Aguardando peça,5.2,6,True,433.17,,False,
+OS00241,2024-10-03,2024-10,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Aeroporto Regional,T04,Fernanda Costa,Concluída,4.1,6,True,486.84,2.0,False,
+OS00242,2024-11-02,2024-11,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hospital São Lucas,T05,Lucas Mendes,Aguardando peça,6.9,6,False,474.15,,False,
+OS00243,2024-06-02,2024-06,Inspeção,PLT-001,Plataforma Elevatória P1,Shopping Center Plaza,T05,Lucas Mendes,Em andamento,2.4,4,True,171.81,,False,
+OS00244,2024-01-25,2024-01,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T04,Fernanda Costa,Em andamento,11.9,12,True,1162.62,,False,
+OS00245,2024-07-11,2024-07,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T04,Fernanda Costa,Concluída,3.9,6,True,395.62,3.0,False,
+OS00246,2024-07-30,2024-07,Inspeção,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T04,Fernanda Costa,Aguardando peça,5.8,4,False,171.87,,False,
+OS00247,2024-08-18,2024-08,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Universidade Federal,T03,Roberto Lima,Concluída,7.2,6,False,270.89,5.0,False,
+OS00248,2024-02-07,2024-02,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T05,Lucas Mendes,Concluída,3.9,6,True,458.27,5.0,False,
+OS00249,2024-04-18,2024-04,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Hospital São Lucas,T03,Roberto Lima,Concluída,11.7,12,True,1175.73,2.0,False,
+OS00250,2024-07-22,2024-07,Inspeção,PLT-001,Plataforma Elevatória P1,Universidade Federal,T05,Lucas Mendes,Concluída,5.6,4,False,171.25,5.0,False,
+OS00251,2024-09-19,2024-09,Manutenção Corretiva,ELV-003,Elevador de Carga,Hospital São Lucas,T03,Roberto Lima,Concluída,11.4,12,True,858.24,5.0,False,Freio com desgaste
+OS00252,2024-10-15,2024-10,Inspeção,ELV-003,Elevador de Carga,Aeroporto Regional,T03,Roberto Lima,Concluída,5.3,4,False,193.95,1.0,False,
+OS00253,2024-04-10,2024-04,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T04,Fernanda Costa,Concluída,8.6,12,True,803.1,5.0,False,Freio com desgaste
+OS00254,2024-08-23,2024-08,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T04,Fernanda Costa,Em andamento,3.8,6,True,467.59,,False,
+OS00255,2024-09-25,2024-09,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T02,Ana Souza,Concluída,7.2,12,True,1101.89,5.0,False,Cabo de aço desgastado
+OS00256,2024-01-05,2024-01,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T02,Ana Souza,Concluída,8.1,12,True,851.85,2.0,False,
+OS00257,2024-09-29,2024-09,Inspeção,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T04,Fernanda Costa,Concluída,3.8,4,True,106.42,4.0,False,
+OS00258,2024-04-01,2024-04,Modernização,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T05,Lucas Mendes,Em andamento,23.5,48,True,3885.26,,False,
+OS00259,2024-05-16,2024-05,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Hotel Grand Palace,T03,Roberto Lima,Concluída,7.0,6,False,267.13,5.0,False,
+OS00260,2024-11-30,2024-11,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T02,Ana Souza,Concluída,8.0,6,False,426.97,1.0,False,
+OS00261,2024-12-25,2024-12,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T01,Carlos Silva,Concluída,3.9,6,True,384.96,4.0,False,
+OS00262,2024-04-27,2024-04,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T01,Carlos Silva,Concluída,8.1,12,True,1115.59,5.0,False,Cabo de aço desgastado
+OS00263,2024-12-02,2024-12,Inspeção,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T03,Roberto Lima,Aguardando peça,1.2,4,True,216.45,,False,
+OS00264,2024-02-09,2024-02,Modernização,ESC-002,Escada Rolante Terminal 2,Hotel Grand Palace,T02,Ana Souza,Em andamento,24.5,48,True,5755.83,,False,
+OS00265,2024-03-12,2024-03,Inspeção,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T05,Lucas Mendes,Em andamento,5.0,4,False,187.72,,True,
+OS00266,2024-04-28,2024-04,Manutenção Corretiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T01,Carlos Silva,Em andamento,11.2,12,True,777.98,,False,
+OS00267,2024-08-18,2024-08,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T03,Roberto Lima,Concluída,5.5,6,True,344.63,5.0,False,
+OS00268,2024-05-31,2024-05,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T04,Fernanda Costa,Aguardando peça,11.0,12,True,1016.39,,True,Motor com superaquecimento
+OS00269,2024-06-11,2024-06,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T02,Ana Souza,Em andamento,4.8,6,True,270.63,,False,
+OS00270,2024-02-14,2024-02,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T03,Roberto Lima,Concluída,7.9,12,True,847.26,4.0,False,Cabo de aço desgastado
+OS00271,2024-06-15,2024-06,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T01,Carlos Silva,Aguardando peça,7.3,6,False,248.46,,False,
+OS00272,2024-09-23,2024-09,Inspeção,PLT-001,Plataforma Elevatória P1,Shopping Center Plaza,T05,Lucas Mendes,Aguardando peça,1.8,4,True,150.69,,False,
+OS00273,2024-08-10,2024-08,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Condomínio Residencial Aurora,T02,Ana Souza,Concluída,4.4,6,True,328.93,5.0,False,
+OS00274,2024-04-10,2024-04,Inspeção,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T04,Fernanda Costa,Aguardando peça,3.3,4,True,121.26,,True,
+OS00275,2024-08-13,2024-08,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Aeroporto Regional,T05,Lucas Mendes,Concluída,4.7,6,True,473.33,5.0,False,
+OS00276,2024-09-02,2024-09,Manutenção Preventiva,ELV-003,Elevador de Carga,Universidade Federal,T05,Lucas Mendes,Concluída,4.6,6,True,515.08,5.0,False,
+OS00277,2024-06-15,2024-06,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Hotel Grand Palace,T05,Lucas Mendes,Concluída,8.9,12,True,1082.56,4.0,True,
+OS00278,2024-01-14,2024-01,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T02,Ana Souza,Aguardando peça,7.8,6,False,374.25,,False,
+OS00279,2024-12-10,2024-12,Manutenção Corretiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T01,Carlos Silva,Em andamento,9.5,12,True,965.34,,True,Motor com superaquecimento
+OS00280,2024-11-02,2024-11,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T04,Fernanda Costa,Em andamento,9.4,12,True,816.52,,False,Sistema elétrico com falha
+OS00281,2024-10-31,2024-10,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T03,Roberto Lima,Aguardando peça,10.2,12,True,614.39,,False,Freio com desgaste
+OS00282,2024-06-18,2024-06,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T01,Carlos Silva,Em andamento,7.8,6,False,365.53,,True,
+OS00283,2024-12-18,2024-12,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T05,Lucas Mendes,Aguardando peça,5.9,6,True,369.82,,False,
+OS00284,2024-01-13,2024-01,Inspeção,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T05,Lucas Mendes,Concluída,3.4,4,True,140.45,5.0,False,
+OS00285,2024-06-24,2024-06,Inspeção,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T02,Ana Souza,Concluída,3.3,4,True,129.82,4.0,False,
+OS00286,2024-06-02,2024-06,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T04,Fernanda Costa,Concluída,7.2,12,True,1014.9,1.0,False,Porta com falha no sensor
+OS00287,2024-10-09,2024-10,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T02,Ana Souza,Concluída,7.8,12,True,918.3,5.0,True,Sistema elétrico com falha
+OS00288,2024-11-10,2024-11,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Aeroporto Regional,T04,Fernanda Costa,Concluída,11.4,12,True,847.73,4.0,True,Botão de chamada inoperante
+OS00289,2024-10-01,2024-10,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T01,Carlos Silva,Concluída,3.9,6,True,336.28,4.0,False,
+OS00290,2024-11-08,2024-11,Inspeção,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T03,Roberto Lima,Em andamento,3.0,4,True,118.71,,False,
+OS00291,2024-02-13,2024-02,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T03,Roberto Lima,Aguardando peça,10.4,12,True,760.44,,True,Porta com falha no sensor
+OS00292,2024-08-02,2024-08,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T02,Ana Souza,Em andamento,6.0,6,True,405.95,,False,
+OS00293,2024-09-07,2024-09,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T02,Ana Souza,Concluída,8.4,12,True,679.74,5.0,False,Freio com desgaste
+OS00294,2024-10-14,2024-10,Modernização,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T02,Ana Souza,Em andamento,25.5,48,True,5479.88,,False,
+OS00295,2024-02-12,2024-02,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Aeroporto Regional,T04,Fernanda Costa,Concluída,9.8,12,True,1069.36,3.0,True,Botão de chamada inoperante
+OS00296,2024-10-08,2024-10,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T04,Fernanda Costa,Em andamento,9.6,12,True,926.54,,False,
+OS00297,2024-08-13,2024-08,Inspeção,ELV-003,Elevador de Carga,Hotel Grand Palace,T05,Lucas Mendes,Concluída,3.7,4,True,223.77,2.0,False,
+OS00298,2024-06-27,2024-06,Inspeção,ELV-003,Elevador de Carga,Aeroporto Regional,T01,Carlos Silva,Concluída,5.3,4,False,115.44,5.0,False,
+OS00299,2024-12-29,2024-12,Inspeção,ELV-002,Elevador Social Bloco B,Universidade Federal,T05,Lucas Mendes,Concluída,4.1,4,False,156.38,4.0,False,
+OS00300,2024-09-29,2024-09,Inspeção,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T01,Carlos Silva,Concluída,2.4,4,True,169.65,4.0,False,
+OS00301,2024-03-10,2024-03,Manutenção Preventiva,ELV-003,Elevador de Carga,Universidade Federal,T05,Lucas Mendes,Concluída,7.8,6,False,464.99,5.0,False,
+OS00302,2024-12-30,2024-12,Inspeção,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T02,Ana Souza,Concluída,2.6,4,True,134.71,5.0,False,
+OS00303,2024-07-11,2024-07,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Universidade Federal,T03,Roberto Lima,Em andamento,5.3,6,True,422.42,,False,
+OS00304,2024-08-20,2024-08,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T03,Roberto Lima,Concluída,7.8,6,False,336.64,1.0,False,
+OS00305,2024-02-02,2024-02,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Universidade Federal,T04,Fernanda Costa,Concluída,11.0,12,True,814.54,5.0,False,
+OS00306,2024-10-22,2024-10,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hospital São Lucas,T03,Roberto Lima,Aguardando peça,3.7,6,True,483.68,,False,
+OS00307,2024-11-16,2024-11,Inspeção,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,4.9,4,False,160.15,2.0,False,
+OS00308,2024-11-28,2024-11,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T04,Fernanda Costa,Concluída,8.5,12,True,1119.63,5.0,True,Freio com desgaste
+OS00309,2024-11-16,2024-11,Manutenção Preventiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T02,Ana Souza,Em andamento,4.5,6,True,440.84,,False,
+OS00310,2024-09-01,2024-09,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,7.4,12,True,939.95,4.0,False,Cabo de aço desgastado
+OS00311,2024-12-21,2024-12,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T01,Carlos Silva,Em andamento,7.7,12,True,605.33,,False,Porta com falha no sensor
+OS00312,2024-03-09,2024-03,Manutenção Preventiva,ELV-003,Elevador de Carga,Shopping Center Plaza,T03,Roberto Lima,Em andamento,6.2,6,False,434.6,,True,
+OS00313,2024-04-19,2024-04,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T02,Ana Souza,Concluída,10.1,12,True,656.88,4.0,False,Botão de chamada inoperante
+OS00314,2024-10-28,2024-10,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T02,Ana Souza,Concluída,6.7,6,False,343.43,4.0,False,
+OS00315,2024-11-03,2024-11,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Shopping Center Plaza,T01,Carlos Silva,Aguardando peça,6.0,6,True,415.13,,False,
+OS00316,2024-11-06,2024-11,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Shopping Center Plaza,T03,Roberto Lima,Aguardando peça,9.5,12,True,1038.62,,False,Cabo de aço desgastado
+OS00317,2024-02-27,2024-02,Inspeção,PLT-002,Plataforma Elevatória P2,Aeroporto Regional,T02,Ana Souza,Em andamento,2.2,4,True,181.57,,True,
+OS00318,2024-07-17,2024-07,Inspeção,ELV-001,Elevador Social Bloco A,Hospital São Lucas,T03,Roberto Lima,Concluída,5.3,4,False,173.21,4.0,False,
+OS00319,2024-02-04,2024-02,Inspeção,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T01,Carlos Silva,Aguardando peça,1.1,4,True,130.89,,False,
+OS00320,2024-07-31,2024-07,Inspeção,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T05,Lucas Mendes,Aguardando peça,3.1,4,True,153.27,,False,
+OS00321,2024-02-10,2024-02,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T03,Roberto Lima,Concluída,9.6,12,True,690.05,5.0,False,Sistema elétrico com falha
+OS00322,2024-05-02,2024-05,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Hospital São Lucas,T01,Carlos Silva,Em andamento,7.3,12,True,615.18,,False,
+OS00323,2024-03-02,2024-03,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Universidade Federal,T03,Roberto Lima,Concluída,7.1,12,True,647.82,1.0,False,Freio com desgaste
+OS00324,2024-03-05,2024-03,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Shopping Center Plaza,T03,Roberto Lima,Concluída,10.7,12,True,1119.01,5.0,True,Cabo de aço desgastado
+OS00325,2024-05-14,2024-05,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T03,Roberto Lima,Concluída,6.6,6,False,406.46,2.0,False,
+OS00326,2024-03-21,2024-03,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T05,Lucas Mendes,Concluída,4.3,6,True,273.81,4.0,False,
+OS00327,2024-05-05,2024-05,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,3.2,6,True,346.91,5.0,False,
+OS00328,2024-04-24,2024-04,Modernização,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T05,Lucas Mendes,Em andamento,24.6,48,True,5165.03,,False,
+OS00329,2024-09-14,2024-09,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Hospital São Lucas,T05,Lucas Mendes,Concluída,6.4,6,False,259.75,3.0,False,
+OS00330,2024-06-08,2024-06,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T01,Carlos Silva,Concluída,4.6,6,True,399.87,1.0,False,
+OS00331,2024-07-07,2024-07,Manutenção Corretiva,ELV-003,Elevador de Carga,Shopping Center Plaza,T05,Lucas Mendes,Em andamento,10.0,12,True,875.75,,False,Botão de chamada inoperante
+OS00332,2024-07-28,2024-07,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T02,Ana Souza,Concluída,7.1,12,True,906.59,4.0,False,Cabo de aço desgastado
+OS00333,2024-02-23,2024-02,Modernização,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T04,Fernanda Costa,Concluída,24.0,48,True,7432.46,4.0,False,
+OS00334,2024-04-28,2024-04,Modernização,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T03,Roberto Lima,Concluída,27.5,48,True,5579.04,5.0,False,
+OS00335,2024-03-09,2024-03,Modernização,ELV-001,Elevador Social Bloco A,Condomínio Residencial Aurora,T05,Lucas Mendes,Aguardando peça,26.2,48,True,5077.41,,False,
+OS00336,2024-05-13,2024-05,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Shopping Center Plaza,T02,Ana Souza,Concluída,7.3,6,False,504.29,4.0,False,
+OS00337,2024-04-13,2024-04,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T03,Roberto Lima,Concluída,3.7,6,True,460.64,2.0,False,
+OS00338,2024-07-02,2024-07,Manutenção Corretiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T04,Fernanda Costa,Aguardando peça,11.8,12,True,692.89,,False,Nível de óleo baixo
+OS00339,2024-12-26,2024-12,Inspeção,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T02,Ana Souza,Concluída,4.5,4,False,109.84,5.0,False,
+OS00340,2024-01-26,2024-01,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Aeroporto Regional,T03,Roberto Lima,Aguardando peça,6.4,6,False,317.85,,False,
+OS00341,2024-05-07,2024-05,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T04,Fernanda Costa,Aguardando peça,3.5,6,True,273.53,,False,
+OS00342,2024-07-24,2024-07,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T02,Ana Souza,Concluída,4.9,6,True,421.48,4.0,False,
+OS00343,2024-04-11,2024-04,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,7.5,6,False,369.16,2.0,False,
+OS00344,2024-01-26,2024-01,Inspeção,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T01,Carlos Silva,Em andamento,1.8,4,True,173.87,,False,
+OS00345,2024-03-29,2024-03,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Universidade Federal,T04,Fernanda Costa,Em andamento,4.8,6,True,499.33,,False,
+OS00346,2024-11-11,2024-11,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T01,Carlos Silva,Aguardando peça,8.2,12,True,748.87,,False,
+OS00347,2024-08-02,2024-08,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Aeroporto Regional,T03,Roberto Lima,Concluída,8.0,12,True,1126.18,4.0,False,
+OS00348,2024-09-05,2024-09,Inspeção,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T03,Roberto Lima,Aguardando peça,2.7,4,True,172.88,,False,
+OS00349,2024-01-16,2024-01,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Edifício Comercial Centro,T03,Roberto Lima,Concluída,7.5,6,False,462.99,2.0,False,
+OS00350,2024-02-21,2024-02,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Shopping Center Plaza,T05,Lucas Mendes,Concluída,8.2,12,True,714.34,4.0,False,Cabo de aço desgastado
+OS00351,2024-06-30,2024-06,Inspeção,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T05,Lucas Mendes,Em andamento,5.7,4,False,223.99,,False,
+OS00352,2024-12-26,2024-12,Manutenção Preventiva,ELV-003,Elevador de Carga,Edifício Comercial Centro,T03,Roberto Lima,Concluída,6.5,6,False,510.32,4.0,False,
+OS00353,2024-03-30,2024-03,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,5.5,6,True,270.27,3.0,False,
+OS00354,2024-03-07,2024-03,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Edifício Comercial Centro,T03,Roberto Lima,Concluída,8.7,12,True,673.57,5.0,False,Cabo de aço desgastado
+OS00355,2024-09-26,2024-09,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Hotel Grand Palace,T02,Ana Souza,Concluída,7.3,6,False,513.96,4.0,False,
+OS00356,2024-03-10,2024-03,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Hospital São Lucas,T03,Roberto Lima,Concluída,7.9,6,False,450.06,4.0,False,
+OS00357,2024-12-21,2024-12,Manutenção Corretiva,ELV-003,Elevador de Carga,Universidade Federal,T02,Ana Souza,Aguardando peça,11.4,12,True,952.77,,False,
+OS00358,2024-03-06,2024-03,Inspeção,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T03,Roberto Lima,Concluída,1.9,4,True,105.22,5.0,False,
+OS00359,2024-11-04,2024-11,Inspeção,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T05,Lucas Mendes,Concluída,2.6,4,True,202.06,4.0,False,
+OS00360,2024-05-01,2024-05,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T02,Ana Souza,Concluída,4.7,6,True,334.47,4.0,False,
+OS00361,2024-05-15,2024-05,Inspeção,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T03,Roberto Lima,Concluída,2.0,4,True,188.18,4.0,False,
+OS00362,2024-03-26,2024-03,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Aeroporto Regional,T04,Fernanda Costa,Em andamento,11.4,12,True,875.57,,False,
+OS00363,2024-11-29,2024-11,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T04,Fernanda Costa,Aguardando peça,6.8,6,False,308.16,,False,
+OS00364,2024-05-13,2024-05,Inspeção,ELV-001,Elevador Social Bloco A,Condomínio Residencial Aurora,T03,Roberto Lima,Concluída,5.8,4,False,113.9,3.0,False,
+OS00365,2024-11-10,2024-11,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Hospital São Lucas,T01,Carlos Silva,Aguardando peça,11.5,12,True,1010.88,,False,Motor com superaquecimento
+OS00366,2024-06-18,2024-06,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Condomínio Residencial Aurora,T02,Ana Souza,Concluída,8.0,12,True,681.59,5.0,False,
+OS00367,2024-01-26,2024-01,Manutenção Preventiva,ELV-003,Elevador de Carga,Shopping Center Plaza,T03,Roberto Lima,Concluída,5.0,6,True,398.91,4.0,True,
+OS00368,2024-09-02,2024-09,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T03,Roberto Lima,Aguardando peça,4.0,6,True,252.21,,False,
+OS00369,2024-06-06,2024-06,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T04,Fernanda Costa,Concluída,6.9,6,False,376.86,5.0,False,
+OS00370,2024-07-08,2024-07,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T02,Ana Souza,Em andamento,7.9,12,True,588.55,,False,Nível de óleo baixo
+OS00371,2024-12-22,2024-12,Manutenção Preventiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T05,Lucas Mendes,Concluída,6.3,6,False,269.0,4.0,False,
+OS00372,2024-07-17,2024-07,Modernização,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T02,Ana Souza,Concluída,27.1,48,True,5174.53,4.0,False,
+OS00373,2024-07-21,2024-07,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Hospital São Lucas,T04,Fernanda Costa,Concluída,11.5,12,True,1017.16,4.0,False,
+OS00374,2024-03-29,2024-03,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T02,Ana Souza,Em andamento,11.7,12,True,666.99,,True,Botão de chamada inoperante
+OS00375,2024-04-13,2024-04,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T01,Carlos Silva,Em andamento,8.0,6,False,420.62,,False,
+OS00376,2024-10-11,2024-10,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T01,Carlos Silva,Em andamento,5.0,6,True,336.32,,False,
+OS00377,2024-10-27,2024-10,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T01,Carlos Silva,Aguardando peça,9.6,12,True,828.54,,False,Motor com superaquecimento
+OS00378,2024-02-21,2024-02,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T01,Carlos Silva,Aguardando peça,10.9,12,True,1115.18,,False,Sistema elétrico com falha
+OS00379,2024-08-30,2024-08,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T04,Fernanda Costa,Aguardando peça,3.2,6,True,322.12,,False,
+OS00380,2024-06-18,2024-06,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T04,Fernanda Costa,Em andamento,10.5,12,True,591.55,,False,Nível de óleo baixo
+OS00381,2024-06-08,2024-06,Inspeção,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T03,Roberto Lima,Concluída,2.4,4,True,163.99,5.0,False,
+OS00382,2024-06-13,2024-06,Inspeção,ELV-002,Elevador Social Bloco B,Universidade Federal,T03,Roberto Lima,Em andamento,2.3,4,True,155.01,,False,
+OS00383,2024-09-21,2024-09,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Universidade Federal,T04,Fernanda Costa,Em andamento,7.3,6,False,474.88,,False,
+OS00384,2024-09-25,2024-09,Manutenção Preventiva,ELV-003,Elevador de Carga,Aeroporto Regional,T05,Lucas Mendes,Concluída,7.4,6,False,253.11,3.0,False,
+OS00385,2024-07-03,2024-07,Inspeção,ELV-002,Elevador Social Bloco B,Aeroporto Regional,T01,Carlos Silva,Concluída,4.5,4,False,137.88,5.0,False,
+OS00386,2024-09-07,2024-09,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T01,Carlos Silva,Concluída,10.0,12,True,673.65,5.0,False,Freio com desgaste
+OS00387,2024-05-25,2024-05,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T03,Roberto Lima,Concluída,3.1,6,True,258.9,5.0,False,
+OS00388,2024-05-17,2024-05,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Universidade Federal,T02,Ana Souza,Concluída,6.3,6,False,388.72,5.0,False,
+OS00389,2024-11-03,2024-11,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T02,Ana Souza,Concluída,11.0,12,True,703.21,4.0,False,Nível de óleo baixo
+OS00390,2024-04-21,2024-04,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T03,Roberto Lima,Concluída,9.3,12,True,993.41,5.0,False,Porta com falha no sensor
+OS00391,2024-11-07,2024-11,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T03,Roberto Lima,Aguardando peça,4.4,6,True,436.64,,False,
+OS00392,2024-05-13,2024-05,Manutenção Preventiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T03,Roberto Lima,Concluída,6.3,6,False,511.61,4.0,False,
+OS00393,2024-07-25,2024-07,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T01,Carlos Silva,Aguardando peça,10.3,12,True,995.68,,False,
+OS00394,2024-01-19,2024-01,Modernização,ELV-003,Elevador de Carga,Aeroporto Regional,T04,Fernanda Costa,Em andamento,25.9,48,True,7479.01,,False,
+OS00395,2024-11-22,2024-11,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Universidade Federal,T02,Ana Souza,Aguardando peça,6.9,6,False,498.83,,False,
+OS00396,2024-04-02,2024-04,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T02,Ana Souza,Aguardando peça,8.5,12,True,861.3,,False,
+OS00397,2024-04-23,2024-04,Inspeção,ELV-002,Elevador Social Bloco B,Universidade Federal,T03,Roberto Lima,Concluída,2.8,4,True,194.31,4.0,False,
+OS00398,2024-03-01,2024-03,Manutenção Preventiva,ELV-003,Elevador de Carga,Hospital São Lucas,T05,Lucas Mendes,Em andamento,5.4,6,True,487.59,,False,
+OS00399,2024-03-02,2024-03,Inspeção,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T04,Fernanda Costa,Aguardando peça,5.3,4,False,150.8,,False,
+OS00400,2024-06-24,2024-06,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Shopping Center Plaza,T02,Ana Souza,Concluída,5.0,6,True,404.43,5.0,False,
+OS00401,2024-09-06,2024-09,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hotel Grand Palace,T02,Ana Souza,Concluída,4.7,6,True,521.26,4.0,True,
+OS00402,2024-09-07,2024-09,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T02,Ana Souza,Concluída,10.9,12,True,1059.04,2.0,False,Sistema elétrico com falha
+OS00403,2024-09-30,2024-09,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Condomínio Residencial Aurora,T04,Fernanda Costa,Concluída,8.0,12,True,798.78,1.0,False,
+OS00404,2024-04-25,2024-04,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Universidade Federal,T01,Carlos Silva,Concluída,6.5,6,False,341.42,2.0,False,
+OS00405,2024-06-01,2024-06,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T01,Carlos Silva,Concluída,11.7,12,True,851.79,4.0,False,Sistema elétrico com falha
+OS00406,2024-04-06,2024-04,Inspeção,ELV-002,Elevador Social Bloco B,Aeroporto Regional,T03,Roberto Lima,Concluída,1.8,4,True,213.83,5.0,True,
+OS00407,2024-10-28,2024-10,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Universidade Federal,T02,Ana Souza,Concluída,5.5,6,True,279.49,5.0,False,
+OS00408,2024-11-15,2024-11,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hotel Grand Palace,T03,Roberto Lima,Aguardando peça,3.2,6,True,523.51,,False,
+OS00409,2024-08-01,2024-08,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Universidade Federal,T01,Carlos Silva,Concluída,9.2,12,True,639.1,3.0,False,Botão de chamada inoperante
+OS00410,2024-12-04,2024-12,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T01,Carlos Silva,Em andamento,7.5,12,True,893.0,,False,Motor com superaquecimento
+OS00411,2024-03-01,2024-03,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Universidade Federal,T05,Lucas Mendes,Aguardando peça,8.4,12,True,1062.25,,False,
+OS00412,2024-12-26,2024-12,Manutenção Preventiva,ELV-003,Elevador de Carga,Shopping Center Plaza,T05,Lucas Mendes,Concluída,5.0,6,True,289.9,4.0,False,
+OS00413,2024-01-07,2024-01,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T03,Roberto Lima,Concluída,10.4,12,True,1140.4,5.0,False,Motor com superaquecimento
+OS00414,2024-05-11,2024-05,Inspeção,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T05,Lucas Mendes,Concluída,4.2,4,False,159.81,5.0,False,
+OS00415,2024-05-28,2024-05,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T02,Ana Souza,Concluída,4.8,6,True,434.49,4.0,False,
+OS00416,2024-12-05,2024-12,Inspeção,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T01,Carlos Silva,Concluída,4.2,4,False,144.44,5.0,False,
+OS00417,2024-04-03,2024-04,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T01,Carlos Silva,Concluída,3.6,6,True,357.07,4.0,False,
+OS00418,2024-02-27,2024-02,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T04,Fernanda Costa,Concluída,7.7,12,True,1024.9,5.0,False,Porta com falha no sensor
+OS00419,2024-12-13,2024-12,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Hotel Grand Palace,T04,Fernanda Costa,Aguardando peça,9.2,12,True,951.25,,False,
+OS00420,2024-02-27,2024-02,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T02,Ana Souza,Em andamento,7.4,6,False,368.39,,True,
+OS00421,2024-10-16,2024-10,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T05,Lucas Mendes,Aguardando peça,8.1,12,True,1171.69,,False,
+OS00422,2024-12-04,2024-12,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T05,Lucas Mendes,Em andamento,10.6,12,True,868.43,,False,Sistema elétrico com falha
+OS00423,2024-01-06,2024-01,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T05,Lucas Mendes,Concluída,6.2,6,False,288.94,5.0,False,
+OS00424,2024-06-18,2024-06,Inspeção,ELV-001,Elevador Social Bloco A,Hospital São Lucas,T04,Fernanda Costa,Concluída,5.9,4,False,111.04,3.0,False,
+OS00425,2024-10-20,2024-10,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Aeroporto Regional,T01,Carlos Silva,Em andamento,9.2,12,True,1108.22,,False,Porta com falha no sensor
+OS00426,2024-07-30,2024-07,Modernização,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T01,Carlos Silva,Em andamento,23.2,48,True,5696.4,,False,
+OS00427,2024-04-15,2024-04,Inspeção,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T03,Roberto Lima,Aguardando peça,4.3,4,False,159.74,,False,
+OS00428,2024-06-18,2024-06,Inspeção,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T02,Ana Souza,Em andamento,3.8,4,True,179.37,,False,
+OS00429,2024-12-03,2024-12,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T04,Fernanda Costa,Concluída,8.1,12,True,778.47,5.0,False,Nível de óleo baixo
+OS00430,2024-09-09,2024-09,Manutenção Corretiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,7.7,12,True,1018.79,5.0,True,
+OS00431,2024-04-07,2024-04,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Shopping Center Plaza,T04,Fernanda Costa,Em andamento,6.6,6,False,275.17,,False,
+OS00432,2024-08-22,2024-08,Inspeção,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T05,Lucas Mendes,Em andamento,4.3,4,False,219.74,,False,
+OS00433,2024-10-26,2024-10,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T01,Carlos Silva,Em andamento,9.4,12,True,885.33,,False,Motor com superaquecimento
+OS00434,2024-12-02,2024-12,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T02,Ana Souza,Em andamento,10.0,12,True,1124.93,,False,Sistema elétrico com falha
+OS00435,2024-06-24,2024-06,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Hospital São Lucas,T02,Ana Souza,Em andamento,11.9,12,True,849.82,,True,Sistema elétrico com falha
+OS00436,2024-06-09,2024-06,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T05,Lucas Mendes,Aguardando peça,10.6,12,True,1158.73,,False,Botão de chamada inoperante
+OS00437,2024-12-10,2024-12,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Universidade Federal,T03,Roberto Lima,Concluída,3.7,6,True,443.91,5.0,False,
+OS00438,2024-06-29,2024-06,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Universidade Federal,T03,Roberto Lima,Concluída,9.8,12,True,933.0,5.0,False,
+OS00439,2024-09-24,2024-09,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T04,Fernanda Costa,Concluída,3.5,6,True,351.64,2.0,True,
+OS00440,2024-03-15,2024-03,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Hospital São Lucas,T02,Ana Souza,Concluída,7.2,6,False,438.37,4.0,False,
+OS00441,2024-12-11,2024-12,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T04,Fernanda Costa,Aguardando peça,6.7,6,False,487.16,,False,
+OS00442,2024-12-20,2024-12,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T05,Lucas Mendes,Concluída,10.3,12,True,1152.95,4.0,False,Freio com desgaste
+OS00443,2024-04-13,2024-04,Modernização,ELV-001,Elevador Social Bloco A,Universidade Federal,T01,Carlos Silva,Concluída,26.1,48,True,6623.7,5.0,False,
+OS00444,2024-10-06,2024-10,Inspeção,PLT-001,Plataforma Elevatória P1,Hotel Grand Palace,T03,Roberto Lima,Aguardando peça,4.7,4,False,128.58,,False,
+OS00445,2024-04-05,2024-04,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T02,Ana Souza,Concluída,7.8,6,False,450.82,2.0,True,
+OS00446,2024-05-10,2024-05,Manutenção Preventiva,ELV-003,Elevador de Carga,Shopping Center Plaza,T02,Ana Souza,Aguardando peça,3.0,6,True,375.57,,False,
+OS00447,2024-12-04,2024-12,Manutenção Preventiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T05,Lucas Mendes,Aguardando peça,4.5,6,True,466.17,,False,
+OS00448,2024-04-04,2024-04,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T03,Roberto Lima,Concluída,5.6,6,True,465.15,3.0,False,
+OS00449,2024-06-18,2024-06,Manutenção Corretiva,ELV-003,Elevador de Carga,Shopping Center Plaza,T02,Ana Souza,Concluída,8.8,12,True,699.8,5.0,False,
+OS00450,2024-08-16,2024-08,Inspeção,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,2.2,4,True,182.07,5.0,False,
+OS00451,2024-07-16,2024-07,Manutenção Preventiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T04,Fernanda Costa,Concluída,4.3,6,True,447.71,1.0,False,
+OS00452,2024-01-23,2024-01,Inspeção,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T05,Lucas Mendes,Em andamento,2.5,4,True,183.18,,False,
+OS00453,2024-09-30,2024-09,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T02,Ana Souza,Aguardando peça,3.0,6,True,263.33,,False,
+OS00454,2024-04-15,2024-04,Inspeção,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T04,Fernanda Costa,Concluída,3.7,4,True,189.33,5.0,False,
+OS00455,2024-06-18,2024-06,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Condomínio Residencial Aurora,T02,Ana Souza,Em andamento,7.2,12,True,606.88,,True,Nível de óleo baixo
+OS00456,2024-07-17,2024-07,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Hospital São Lucas,T02,Ana Souza,Em andamento,9.3,12,True,818.85,,False,Sistema elétrico com falha
+OS00457,2024-02-02,2024-02,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T01,Carlos Silva,Aguardando peça,10.8,12,True,934.79,,False,Porta com falha no sensor
+OS00458,2024-11-06,2024-11,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Hospital São Lucas,T01,Carlos Silva,Concluída,3.4,6,True,459.28,4.0,False,
+OS00459,2024-03-10,2024-03,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T02,Ana Souza,Concluída,10.7,12,True,1069.93,5.0,False,Motor com superaquecimento
+OS00460,2024-10-11,2024-10,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T03,Roberto Lima,Aguardando peça,3.7,6,True,256.7,,False,
+OS00461,2024-06-25,2024-06,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Hospital São Lucas,T01,Carlos Silva,Concluída,4.1,6,True,498.58,5.0,False,
+OS00462,2024-04-02,2024-04,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T03,Roberto Lima,Concluída,6.4,6,False,403.84,2.0,False,
+OS00463,2024-02-07,2024-02,Modernização,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T04,Fernanda Costa,Aguardando peça,24.5,48,True,3769.45,,False,
+OS00464,2024-12-09,2024-12,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T03,Roberto Lima,Concluída,10.3,12,True,624.03,4.0,False,Freio com desgaste
+OS00465,2024-12-21,2024-12,Manutenção Corretiva,ELV-003,Elevador de Carga,Universidade Federal,T05,Lucas Mendes,Concluída,9.9,12,True,921.95,4.0,False,Sistema elétrico com falha
+OS00466,2024-12-30,2024-12,Manutenção Preventiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T02,Ana Souza,Concluída,6.7,6,False,367.11,5.0,False,
+OS00467,2024-06-05,2024-06,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T04,Fernanda Costa,Concluída,9.4,12,True,629.65,4.0,True,Nível de óleo baixo
+OS00468,2024-11-16,2024-11,Inspeção,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T05,Lucas Mendes,Concluída,1.4,4,True,114.05,1.0,False,
+OS00469,2024-04-18,2024-04,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T05,Lucas Mendes,Aguardando peça,7.5,6,False,399.45,,False,
+OS00470,2024-04-24,2024-04,Modernização,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T02,Ana Souza,Em andamento,27.5,48,True,5858.4,,False,
+OS00471,2024-07-05,2024-07,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T05,Lucas Mendes,Em andamento,5.5,6,True,430.55,,False,
+OS00472,2024-03-12,2024-03,Inspeção,ESC-002,Escada Rolante Terminal 2,Hotel Grand Palace,T02,Ana Souza,Aguardando peça,3.2,4,True,126.5,,False,
+OS00473,2024-04-22,2024-04,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Hospital São Lucas,T04,Fernanda Costa,Concluída,10.8,12,True,708.32,3.0,True,Botão de chamada inoperante
+OS00474,2024-08-20,2024-08,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Aeroporto Regional,T03,Roberto Lima,Em andamento,11.4,12,True,585.54,,False,Porta com falha no sensor
+OS00475,2024-10-23,2024-10,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Hotel Grand Palace,T03,Roberto Lima,Concluída,9.7,12,True,671.26,4.0,False,Porta com falha no sensor
+OS00476,2024-06-29,2024-06,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T02,Ana Souza,Em andamento,11.1,12,True,780.82,,False,
+OS00477,2024-02-09,2024-02,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T04,Fernanda Costa,Concluída,5.6,6,True,323.63,3.0,False,
+OS00478,2024-07-31,2024-07,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T01,Carlos Silva,Concluída,11.1,12,True,1020.96,4.0,False,Botão de chamada inoperante
+OS00479,2024-01-23,2024-01,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T04,Fernanda Costa,Concluída,7.6,12,True,939.1,3.0,False,
+OS00480,2024-07-26,2024-07,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T03,Roberto Lima,Aguardando peça,6.0,6,True,402.81,,True,
+OS00481,2024-08-17,2024-08,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T03,Roberto Lima,Concluída,10.0,12,True,861.7,4.0,True,Sistema elétrico com falha
+OS00482,2024-11-15,2024-11,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Hotel Grand Palace,T05,Lucas Mendes,Concluída,10.3,12,True,729.29,5.0,False,
+OS00483,2024-03-08,2024-03,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Aeroporto Regional,T02,Ana Souza,Em andamento,7.5,12,True,689.5,,False,
+OS00484,2024-03-31,2024-03,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T02,Ana Souza,Concluída,9.4,12,True,953.44,1.0,False,
+OS00485,2024-11-04,2024-11,Inspeção,ELV-001,Elevador Social Bloco A,Universidade Federal,T04,Fernanda Costa,Concluída,3.7,4,True,105.14,5.0,False,
+OS00486,2024-12-23,2024-12,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Hotel Grand Palace,T03,Roberto Lima,Concluída,9.6,12,True,706.87,5.0,False,Sistema elétrico com falha
+OS00487,2024-03-09,2024-03,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T05,Lucas Mendes,Em andamento,4.3,6,True,459.44,,False,
+OS00488,2024-04-06,2024-04,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T05,Lucas Mendes,Concluída,3.0,6,True,453.22,1.0,False,
+OS00489,2024-07-28,2024-07,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T02,Ana Souza,Concluída,8.8,12,True,659.06,4.0,False,
+OS00490,2024-04-14,2024-04,Manutenção Corretiva,ELV-003,Elevador de Carga,Hospital São Lucas,T05,Lucas Mendes,Em andamento,9.1,12,True,1061.62,,False,Freio com desgaste
+OS00491,2024-06-25,2024-06,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T03,Roberto Lima,Aguardando peça,10.9,12,True,814.8,,True,Porta com falha no sensor
+OS00492,2024-09-17,2024-09,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Condomínio Residencial Aurora,T02,Ana Souza,Concluída,9.0,12,True,776.6,4.0,False,Cabo de aço desgastado
+OS00493,2024-03-15,2024-03,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hotel Grand Palace,T01,Carlos Silva,Concluída,5.4,6,True,413.07,2.0,False,
+OS00494,2024-07-24,2024-07,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T01,Carlos Silva,Em andamento,6.1,6,False,390.88,,False,
+OS00495,2024-08-12,2024-08,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T02,Ana Souza,Em andamento,7.1,12,True,1104.36,,False,
+OS00496,2024-12-23,2024-12,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Edifício Comercial Centro,T05,Lucas Mendes,Aguardando peça,4.2,6,True,292.46,,True,
+OS00497,2024-07-23,2024-07,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Condomínio Residencial Aurora,T02,Ana Souza,Concluída,4.8,6,True,355.64,4.0,False,
+OS00498,2024-10-13,2024-10,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Edifício Comercial Centro,T01,Carlos Silva,Concluída,11.6,12,True,782.78,5.0,False,
+OS00499,2024-05-13,2024-05,Modernização,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,23.9,48,True,5524.95,4.0,False,
+OS00500,2024-10-21,2024-10,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Hospital São Lucas,T05,Lucas Mendes,Aguardando peça,4.3,6,True,368.98,,False,
+OS00501,2024-12-14,2024-12,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T03,Roberto Lima,Em andamento,9.3,12,True,935.57,,True,Porta com falha no sensor
+OS00502,2024-06-10,2024-06,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T02,Ana Souza,Concluída,5.1,6,True,343.87,4.0,False,
+OS00503,2024-02-08,2024-02,Manutenção Preventiva,ELV-003,Elevador de Carga,Aeroporto Regional,T01,Carlos Silva,Concluída,5.8,6,True,294.98,4.0,False,
+OS00504,2024-04-30,2024-04,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Aeroporto Regional,T02,Ana Souza,Concluída,10.7,12,True,1118.56,3.0,True,Botão de chamada inoperante
+OS00505,2024-03-02,2024-03,Inspeção,ELV-003,Elevador de Carga,Hotel Grand Palace,T02,Ana Souza,Concluída,5.6,4,False,186.1,4.0,False,
+OS00506,2024-07-09,2024-07,Inspeção,ESC-002,Escada Rolante Terminal 2,Hotel Grand Palace,T01,Carlos Silva,Em andamento,4.1,4,False,164.08,,False,
+OS00507,2024-09-18,2024-09,Inspeção,PLT-002,Plataforma Elevatória P2,Aeroporto Regional,T03,Roberto Lima,Concluída,2.4,4,True,131.65,4.0,True,
+OS00508,2024-06-26,2024-06,Inspeção,ESC-001,Escada Rolante Terminal 1,Condomínio Residencial Aurora,T05,Lucas Mendes,Aguardando peça,3.0,4,True,187.36,,False,
+OS00509,2024-12-18,2024-12,Modernização,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T05,Lucas Mendes,Concluída,23.0,48,True,6196.41,4.0,False,
+OS00510,2024-05-14,2024-05,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Shopping Center Plaza,T03,Roberto Lima,Aguardando peça,4.2,6,True,376.98,,False,
+OS00511,2024-12-24,2024-12,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T04,Fernanda Costa,Em andamento,6.8,6,False,347.22,,False,
+OS00512,2024-02-21,2024-02,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T02,Ana Souza,Concluída,10.6,12,True,1074.62,4.0,False,Botão de chamada inoperante
+OS00513,2024-03-31,2024-03,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T02,Ana Souza,Concluída,5.1,6,True,282.65,5.0,False,
+OS00514,2024-10-14,2024-10,Manutenção Corretiva,ELV-003,Elevador de Carga,Hospital São Lucas,T04,Fernanda Costa,Concluída,11.3,12,True,590.53,2.0,True,Botão de chamada inoperante
+OS00515,2024-05-13,2024-05,Inspeção,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T01,Carlos Silva,Concluída,2.8,4,True,172.24,5.0,False,
+OS00516,2024-04-11,2024-04,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Hotel Grand Palace,T03,Roberto Lima,Aguardando peça,5.9,6,True,426.96,,False,
+OS00517,2024-09-06,2024-09,Modernização,ELV-003,Elevador de Carga,Hospital São Lucas,T03,Roberto Lima,Aguardando peça,26.9,48,True,5287.72,,True,
+OS00518,2024-11-23,2024-11,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Hotel Grand Palace,T02,Ana Souza,Concluída,11.0,12,True,775.93,4.0,False,Porta com falha no sensor
+OS00519,2024-11-30,2024-11,Manutenção Preventiva,ELV-003,Elevador de Carga,Hospital São Lucas,T02,Ana Souza,Concluída,4.5,6,True,319.89,4.0,False,
+OS00520,2024-09-23,2024-09,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Universidade Federal,T03,Roberto Lima,Aguardando peça,11.8,12,True,824.95,,True,Cabo de aço desgastado
+OS00521,2024-04-17,2024-04,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Universidade Federal,T03,Roberto Lima,Concluída,3.8,6,True,273.84,2.0,False,
+OS00522,2024-02-23,2024-02,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,8.3,12,True,659.38,4.0,False,Nível de óleo baixo
+OS00523,2024-03-08,2024-03,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T03,Roberto Lima,Concluída,5.6,6,True,292.77,1.0,False,
+OS00524,2024-05-19,2024-05,Inspeção,PLT-002,Plataforma Elevatória P2,Aeroporto Regional,T04,Fernanda Costa,Aguardando peça,3.7,4,True,121.21,,False,
+OS00525,2024-08-10,2024-08,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T05,Lucas Mendes,Aguardando peça,9.6,12,True,969.3,,False,Freio com desgaste
+OS00526,2024-07-06,2024-07,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Aeroporto Regional,T01,Carlos Silva,Concluída,9.1,12,True,659.66,1.0,False,Motor com superaquecimento
+OS00527,2024-09-01,2024-09,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Condomínio Residencial Aurora,T05,Lucas Mendes,Em andamento,4.5,6,True,459.44,,False,
+OS00528,2024-04-06,2024-04,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T01,Carlos Silva,Concluída,9.1,12,True,918.75,4.0,True,Sistema elétrico com falha
+OS00529,2024-11-16,2024-11,Inspeção,ELV-002,Elevador Social Bloco B,Condomínio Residencial Aurora,T03,Roberto Lima,Em andamento,2.2,4,True,196.74,,False,
+OS00530,2024-05-17,2024-05,Inspeção,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T03,Roberto Lima,Aguardando peça,3.1,4,True,207.42,,False,
+OS00531,2024-05-19,2024-05,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Edifício Comercial Centro,T04,Fernanda Costa,Em andamento,6.5,6,False,382.76,,False,
+OS00532,2024-05-24,2024-05,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T01,Carlos Silva,Concluída,4.3,6,True,445.25,5.0,False,
+OS00533,2024-06-08,2024-06,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T02,Ana Souza,Em andamento,6.9,6,False,384.55,,False,
+OS00534,2024-01-29,2024-01,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Condomínio Residencial Aurora,T03,Roberto Lima,Concluída,8.3,12,True,811.15,4.0,True,Nível de óleo baixo
+OS00535,2024-07-16,2024-07,Inspeção,PLT-002,Plataforma Elevatória P2,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,4.9,4,False,158.16,5.0,True,
+OS00536,2024-08-30,2024-08,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T01,Carlos Silva,Concluída,8.9,12,True,1175.18,5.0,True,Cabo de aço desgastado
+OS00537,2024-09-03,2024-09,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T05,Lucas Mendes,Concluída,10.2,12,True,687.18,5.0,False,Botão de chamada inoperante
+OS00538,2024-03-26,2024-03,Modernização,ELV-002,Elevador Social Bloco B,Hospital São Lucas,T04,Fernanda Costa,Concluída,27.0,48,True,5838.79,4.0,False,
+OS00539,2024-03-20,2024-03,Modernização,ESC-002,Escada Rolante Terminal 2,Universidade Federal,T04,Fernanda Costa,Aguardando peça,24.9,48,True,3857.92,,False,
+OS00540,2024-01-31,2024-01,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Hotel Grand Palace,T03,Roberto Lima,Concluída,4.8,6,True,288.1,4.0,False,
+OS00541,2024-08-12,2024-08,Manutenção Corretiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T05,Lucas Mendes,Concluída,10.7,12,True,573.67,4.0,False,Nível de óleo baixo
+OS00542,2024-10-04,2024-10,Inspeção,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,4.5,4,False,127.77,3.0,False,
+OS00543,2024-03-23,2024-03,Manutenção Corretiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T05,Lucas Mendes,Aguardando peça,7.3,12,True,659.22,,False,Nível de óleo baixo
+OS00544,2024-07-13,2024-07,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Hotel Grand Palace,T01,Carlos Silva,Aguardando peça,10.7,12,True,1125.08,,False,Freio com desgaste
+OS00545,2024-12-03,2024-12,Inspeção,ELV-002,Elevador Social Bloco B,Universidade Federal,T03,Roberto Lima,Concluída,5.8,4,False,203.29,3.0,False,
+OS00546,2024-07-28,2024-07,Inspeção,ELV-002,Elevador Social Bloco B,Hospital São Lucas,T05,Lucas Mendes,Concluída,4.2,4,False,118.26,4.0,True,
+OS00547,2024-04-13,2024-04,Inspeção,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T02,Ana Souza,Concluída,1.5,4,True,127.99,1.0,False,
+OS00548,2024-05-11,2024-05,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Edifício Comercial Centro,T05,Lucas Mendes,Aguardando peça,3.2,6,True,306.8,,False,
+OS00549,2024-08-27,2024-08,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T04,Fernanda Costa,Concluída,7.0,6,False,262.0,4.0,False,
+OS00550,2024-05-16,2024-05,Manutenção Corretiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T01,Carlos Silva,Aguardando peça,9.6,12,True,1029.95,,False,Porta com falha no sensor
+OS00551,2024-09-29,2024-09,Inspeção,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,2.9,4,True,128.17,4.0,False,
+OS00552,2024-11-22,2024-11,Inspeção,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T05,Lucas Mendes,Concluída,3.9,4,True,185.94,5.0,False,
+OS00553,2024-09-15,2024-09,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T02,Ana Souza,Em andamento,4.7,6,True,289.29,,False,
+OS00554,2024-07-09,2024-07,Manutenção Corretiva,ELV-003,Elevador de Carga,Edifício Comercial Centro,T03,Roberto Lima,Concluída,9.1,12,True,965.27,5.0,False,Botão de chamada inoperante
+OS00555,2024-05-10,2024-05,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Hotel Grand Palace,T04,Fernanda Costa,Aguardando peça,8.8,12,True,849.54,,False,Cabo de aço desgastado
+OS00556,2024-03-10,2024-03,Manutenção Corretiva,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T05,Lucas Mendes,Aguardando peça,12.0,12,True,753.18,,False,Botão de chamada inoperante
+OS00557,2024-10-10,2024-10,Manutenção Preventiva,ELV-003,Elevador de Carga,Hotel Grand Palace,T01,Carlos Silva,Concluída,5.6,6,True,404.79,4.0,False,
+OS00558,2024-10-25,2024-10,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Hospital São Lucas,T02,Ana Souza,Concluída,8.2,12,True,724.0,4.0,False,
+OS00559,2024-09-04,2024-09,Inspeção,PLT-001,Plataforma Elevatória P1,Universidade Federal,T01,Carlos Silva,Concluída,1.9,4,True,204.08,5.0,False,
+OS00560,2024-07-14,2024-07,Inspeção,ESC-002,Escada Rolante Terminal 2,Condomínio Residencial Aurora,T03,Roberto Lima,Aguardando peça,1.4,4,True,111.71,,False,
+OS00561,2024-04-26,2024-04,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Aeroporto Regional,T04,Fernanda Costa,Concluída,6.7,6,False,482.85,5.0,False,
+OS00562,2024-06-12,2024-06,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Edifício Comercial Centro,T03,Roberto Lima,Concluída,9.7,12,True,655.73,4.0,True,Cabo de aço desgastado
+OS00563,2024-10-21,2024-10,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Hotel Grand Palace,T04,Fernanda Costa,Aguardando peça,9.5,12,True,702.13,,False,Sistema elétrico com falha
+OS00564,2024-01-26,2024-01,Manutenção Preventiva,ELV-003,Elevador de Carga,Aeroporto Regional,T01,Carlos Silva,Aguardando peça,5.7,6,True,318.52,,False,
+OS00565,2024-09-03,2024-09,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hotel Grand Palace,T02,Ana Souza,Concluída,9.8,12,True,872.23,4.0,True,
+OS00566,2024-05-16,2024-05,Modernização,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T02,Ana Souza,Concluída,26.9,48,True,4793.65,5.0,False,
+OS00567,2024-06-13,2024-06,Manutenção Corretiva,ESC-001,Escada Rolante Terminal 1,Hospital São Lucas,T03,Roberto Lima,Concluída,8.7,12,True,979.46,5.0,True,Freio com desgaste
+OS00568,2024-08-13,2024-08,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T04,Fernanda Costa,Concluída,7.2,12,True,1083.63,3.0,False,Porta com falha no sensor
+OS00569,2024-05-27,2024-05,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Edifício Comercial Centro,T02,Ana Souza,Concluída,3.1,6,True,439.26,2.0,False,
+OS00570,2024-10-06,2024-10,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Shopping Center Plaza,T05,Lucas Mendes,Concluída,5.6,6,True,317.42,4.0,False,
+OS00571,2024-12-05,2024-12,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T01,Carlos Silva,Aguardando peça,5.6,6,True,316.53,,True,
+OS00572,2024-08-26,2024-08,Manutenção Preventiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T05,Lucas Mendes,Concluída,6.3,6,False,247.33,4.0,False,
+OS00573,2024-01-10,2024-01,Inspeção,PLT-001,Plataforma Elevatória P1,Hotel Grand Palace,T03,Roberto Lima,Concluída,2.5,4,True,211.01,4.0,False,
+OS00574,2024-11-01,2024-11,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Hospital São Lucas,T01,Carlos Silva,Em andamento,9.7,12,True,679.31,,False,
+OS00575,2024-09-28,2024-09,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T01,Carlos Silva,Concluída,8.5,12,True,873.56,5.0,True,Freio com desgaste
+OS00576,2024-02-01,2024-02,Manutenção Preventiva,ELV-003,Elevador de Carga,Edifício Comercial Centro,T02,Ana Souza,Concluída,6.1,6,False,491.03,5.0,False,
+OS00577,2024-06-23,2024-06,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T03,Roberto Lima,Concluída,7.5,6,False,428.94,2.0,False,
+OS00578,2024-10-20,2024-10,Modernização,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T02,Ana Souza,Concluída,23.8,48,True,7382.15,5.0,False,
+OS00579,2024-12-16,2024-12,Manutenção Corretiva,ELV-002,Elevador Social Bloco B,Edifício Comercial Centro,T02,Ana Souza,Aguardando peça,11.0,12,True,1112.06,,False,
+OS00580,2024-03-21,2024-03,Inspeção,ESC-001,Escada Rolante Terminal 1,Universidade Federal,T02,Ana Souza,Aguardando peça,2.6,4,True,171.88,,False,
+OS00581,2024-06-12,2024-06,Manutenção Preventiva,ELV-003,Elevador de Carga,Universidade Federal,T02,Ana Souza,Concluída,7.4,6,False,360.93,4.0,False,
+OS00582,2024-02-24,2024-02,Inspeção,PLT-001,Plataforma Elevatória P1,Shopping Center Plaza,T03,Roberto Lima,Concluída,1.7,4,True,108.14,5.0,False,
+OS00583,2024-04-28,2024-04,Manutenção Corretiva,ESC-002,Escada Rolante Terminal 2,Edifício Comercial Centro,T02,Ana Souza,Concluída,10.4,12,True,789.93,5.0,False,
+OS00584,2024-09-08,2024-09,Inspeção,ESC-001,Escada Rolante Terminal 1,Shopping Center Plaza,T03,Roberto Lima,Em andamento,3.4,4,True,124.65,,False,
+OS00585,2024-12-09,2024-12,Manutenção Corretiva,ELV-001,Elevador Social Bloco A,Aeroporto Regional,T03,Roberto Lima,Concluída,11.9,12,True,1044.98,2.0,False,
+OS00586,2024-05-06,2024-05,Inspeção,ESC-001,Escada Rolante Terminal 1,Hotel Grand Palace,T03,Roberto Lima,Em andamento,3.1,4,True,198.15,,False,
+OS00587,2024-10-19,2024-10,Inspeção,PLT-001,Plataforma Elevatória P1,Aeroporto Regional,T03,Roberto Lima,Aguardando peça,4.0,4,True,168.03,,False,
+OS00588,2024-01-22,2024-01,Inspeção,ESC-002,Escada Rolante Terminal 2,Aeroporto Regional,T01,Carlos Silva,Em andamento,5.4,4,False,134.49,,False,
+OS00589,2024-11-18,2024-11,Modernização,ELV-001,Elevador Social Bloco A,Aeroporto Regional,T05,Lucas Mendes,Aguardando peça,27.8,48,True,4259.4,,False,
+OS00590,2024-08-04,2024-08,Inspeção,PLT-002,Plataforma Elevatória P2,Aeroporto Regional,T03,Roberto Lima,Concluída,2.5,4,True,215.28,5.0,False,
+OS00591,2024-02-27,2024-02,Manutenção Corretiva,PLT-001,Plataforma Elevatória P1,Condomínio Residencial Aurora,T04,Fernanda Costa,Aguardando peça,7.9,12,True,934.69,,False,
+OS00592,2024-04-01,2024-04,Manutenção Preventiva,ESC-001,Escada Rolante Terminal 1,Aeroporto Regional,T03,Roberto Lima,Concluída,5.3,6,True,496.05,5.0,False,
+OS00593,2024-02-16,2024-02,Manutenção Preventiva,ELV-003,Elevador de Carga,Universidade Federal,T02,Ana Souza,Concluída,3.6,6,True,370.83,4.0,False,
+OS00594,2024-07-12,2024-07,Manutenção Preventiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T05,Lucas Mendes,Concluída,5.8,6,True,257.29,3.0,False,
+OS00595,2024-04-01,2024-04,Inspeção,PLT-002,Plataforma Elevatória P2,Shopping Center Plaza,T02,Ana Souza,Concluída,4.8,4,False,111.16,4.0,False,
+OS00596,2024-04-13,2024-04,Modernização,ELV-003,Elevador de Carga,Condomínio Residencial Aurora,T02,Ana Souza,Concluída,23.0,48,True,6561.58,1.0,False,
+OS00597,2024-05-01,2024-05,Manutenção Corretiva,PLT-002,Plataforma Elevatória P2,Edifício Comercial Centro,T01,Carlos Silva,Em andamento,8.1,12,True,982.06,,False,
+OS00598,2024-05-22,2024-05,Manutenção Preventiva,ESC-002,Escada Rolante Terminal 2,Shopping Center Plaza,T01,Carlos Silva,Aguardando peça,6.1,6,False,401.11,,False,
+OS00599,2024-01-19,2024-01,Manutenção Preventiva,ELV-002,Elevador Social Bloco B,Universidade Federal,T01,Carlos Silva,Concluída,3.7,6,True,254.08,4.0,False,
+OS00600,2024-04-01,2024-04,Manutenção Preventiva,ELV-001,Elevador Social Bloco A,Condomínio Residencial Aurora,T01,Carlos Silva,Em andamento,3.8,6,True,324.63,,False,
