@@ -77,4 +77,4 @@ python gerar_dados_manutencao.py
 
 ---
 
-_Projeto desenvolvido por [Vinicius Degelo](https://linkedin.com/in/SEU-USUARIO) como parte do portfólio de Análise de Dados & BI._
+_Projeto desenvolvido por [Vinicius Degelo](https://linkedin.com/in/vinicius-degelo) como parte do portfólio de Análise de Dados & BI._
