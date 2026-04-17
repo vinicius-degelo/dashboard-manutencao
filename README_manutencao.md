@@ -70,10 +70,14 @@ python gerar_dados_manutencao.py
 
 ## Páginas do dashboard
 
-1. **Visão geral** - KPIs principais + gráfico de ordens por mês
-2. **SLA e performance** - Cumprimento por tipo de manutenção e por técnico
-3. **Equipamentos** - Ranking de equipamentos por custo e reincidência
-4. **Satisfação** - NPS e avaliações por técnico e cliente
+1. ### Visão Geral
+![Visão Geral](prints/Visao%20Geral.png) - KPIs principais + gráfico de ordens por mês
+2. ### Performance
+![Performance](prints/Performance.png) - Cumprimento por tipo de manutenção e por técnico
+3. ### Equipamentos
+![Equipamentos](prints/Equipamentos.png) - Ranking de equipamentos por custo e reincidência
+4. ### Satisfação
+![Satisfação](prints/Satisfacao.png) - NPS e avaliações por técnico e cliente
 
 ---
 
